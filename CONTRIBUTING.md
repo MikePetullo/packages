@@ -1,3 +1,5 @@
+Hello, world!
+
 # Contributing Guidelines
 
 Ref: <https://openwrt.org/docs/guide-developer/packages> for overall format and construction
